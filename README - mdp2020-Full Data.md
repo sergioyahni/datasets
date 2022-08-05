@@ -1,5 +1,10 @@
 ## Maddison Project Database (MPD) 2020													
 
+GDP pc:	Real GDP per capita in 2011$
+Population:	Population, mid-year (thousands)
+Regional data:	Regional GDP per capita and population estimates
+
+
 ### Citation policy													
 													
 CONDITIONS UNDER WHICH ALL ORIGINAL PAPERS MUST BE CITED:													
