@@ -1,8 +1,8 @@
-ISO_alpha3_Code,Country / dependency,Total in km2 ,Total in mi2,Land in km2 ,Land in mi2,Water in km2 ,Water in mi2,% water
-NA,Earth,"510,072,000","196,940,000","148,940,000","57,506,000","361,132,000","139,434,000",70.8
+ISO_alpha3_Code,Country / dependency,Total in km2Â ,Total in mi2,Land in km2Â ,Land in mi2,Water in km2Â ,Water in mi2,% water
+EAR,Earth,"510,072,000","196,940,000","148,940,000","57,506,000","361,132,000","139,434,000",70.8
 RUS,Russia,"17,098,246","6,601,667","16,376,870","6,323,142","721,380","278,530",4.2
-NA,Antarctica,"14,200,000","5,480,000","14,200,000","5,480,000",0,0,0
-CAN,Canada,"9,984,670","3,855,100","9,093,507","3,511,021","891,163","344,080",8.9
+ANT,Antarctica,"14,200,000","5,480,000","14,200,000","5,480,000",0,0,0
+CAN,Canada,"9,984NA,670","3,855,100","9,093,507","3,511,021","891,163","344,080",8.9
 CHN,China,"9,596,960","3,705,410","9,326,410","3,600,950","270,550","104,460",2.8
 USA,United States,"9,525,067","3,677,647","9,147,593","3,531,904","377,424","145,724",4
 BRA,Brazil,"8,510,346","3,285,862","8,460,415","3,266,583","55,352","21,372",0.6
@@ -191,10 +191,10 @@ LUX,Luxembourg,"2,586",998,"2,574",994,16,6,0.6
 NA,Bir Tawil(terra nullius),"2,060",795,"2,060",795,0,0,0
 MUS,Mauritius,"2,040",788,"2,030",784,10,4,0.5
 COM,Comoros,"1,861",719,"1,861",719,0,0,0
-ALA,Åland(Finland),"1,581",610,"1,553",600,28,11,1.8
+ALA,Ã…land(Finland),"1,581",610,"1,553",600,28,11,1.8
 FRO,Faroe Islands(Denmark),"1,393",538,"1,393",538,0,0,0
 HKG,Hong Kong(China),"1,114",430,"1,050",405,60,20,5.4
-STP,São Tomé and Príncipe,964,372,964,372,0,0,0
+STP,SÃ£o TomÃ© and PrÃ­ncipe,964,372,964,372,0,0,0
 TCA,Turks and Caicos Islands(UK),948,366,948,366,0,0,0
 KIR,Kiribati,811,313,811,313,0,0,0
 BHR,Bahrain,778,300,778,300,0,0,0
@@ -209,7 +209,7 @@ AND,Andorra,468,181,468,181,0,0,0
 PLW,Palau,459,177,459,177,0,0,0
 PCI,Northern Mariana Islands(US),457,176,457,176,0,0,0
 SYC,Seychelles,457,176,457,176,0,0,0
-CUW,Curaçao(Netherlands),444,171,444,171,0,0,0
+CUW,CuraÃ§ao(Netherlands),444,171,444,171,0,0,0
 ATG,Antigua and Barbuda,442,171,442,171,0,0,0
 BRB,Barbados,431,166,431,166,0,0,0
 HMD,Heard Island and McDonald Islands(Australia),412,159,412,159,0,0,0
@@ -250,7 +250,7 @@ SXM,Sint Maarten(Netherlands),34,13,34,13,0,0,0
 UMI,U.S. Minor Outlying Islands(US),34,13,34,13,0,0,0
 MAC,Macao(China),33,13,33,13,0,0,0
 TUV,Tuvalu,26,10,26,10,0,0,0
-BLM,Saint Barthélemy(France),22,8,20,8,0,0,0
+BLM,Saint BarthÃ©lemy(France),22,8,20,8,0,0,0
 NRU,Nauru,21,8,20,8,0,0,0
 BES,Sint Eustatius(Netherlands),21,8,,,,0,
 CCK,Cocos (Keeling) Islands(Australia),14,5,14,5,0,0,0
